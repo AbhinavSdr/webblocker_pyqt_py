@@ -7,8 +7,6 @@
 This is a simple website blocker made using Python. It features a simple GUI made using the PyQt5 module.
 This program uses your [hosts](https://www.3essentials.com/what-is-a-hosts-file-and-how-do-you-edit-it/) file to block the websites you enter.
 
-Also check out my other [website_blocker](https://github.com/AbhinavSdr/Website_Blocker_py_gui) with tkinter.
-
 ==================
 ### Prerequisites
 
